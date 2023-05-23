@@ -14,7 +14,7 @@ I'm Mikiya, who accumulated knowledge and skills in both backend and frontend de
 - 🏠 I’m based in Vancouver,BC 🇨🇦  Born and raised in Japan 🇯🇵
 - 🌱 I’m currently learning TypeScript
 - 📩 You can contact me at m1i1k2i1ya@gmail.com
-
+- 💻 Portofolio: https://www.ichinomikiya.com/
 ### 🎨 Language and Tools
 
 <div>
